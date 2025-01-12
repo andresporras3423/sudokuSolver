@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Sudoku",
+  "Type": "Screen",
+  "Id": "3MxGEas-bEa3fwQu7iNkxw",
+  "Reference": "iF6Y1CLUi0-BnmuVdif5mw/3MxGEas-bEa3fwQu7iNkxw",
+  "ParentRef": "iF6Y1CLUi0-BnmuVdif5mw/SF0lrmY10k6iZF2xpOdROQ",
+  "Created": "2025-01-09T22:19:19.9477937Z",
+  "Updated": "2025-01-09T22:19:19.9477937Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

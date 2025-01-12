@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="az-4c0MNQEam5jipC1A6lQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="176, 272, 647, 41" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Connect 4' role='document' /&gt;&lt;ctrl idx='3' role='DIV' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Connect 4' role='document' /&gt;&lt;ctrl automationid='' role='DIV' /&gt;" Guid="a897f26d-5c12-4c52-a089-864a3560b0d6" ScopeSelectorArgument="&lt;wnd app='myapp.exe' cls='Chrome_WidgetWin_1' title='Connect 4' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="UIA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0cf96650384a224cd73fe9adf5629159.png" xmlns="">0hgFT_SiI60mAgFNT9GXQVA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

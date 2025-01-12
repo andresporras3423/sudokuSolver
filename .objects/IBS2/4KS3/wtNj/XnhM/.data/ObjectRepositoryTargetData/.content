@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O3qVscUwi0ic29api28XfA" Reference="iF6Y1CLUi0-BnmuVdif5mw/XnhMyLa9U0-3U-ioxMtdsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="4f02c301-91f2-427b-b572-e0019e73cd82" DesignTimeRectangle="756, 736, 58, 57" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl class='sdk-btn' tag='DIV' aaname='2' /&gt;" Guid="c8c2c2ad-41be-40e2-878c-650fd8b2a2bd" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sudoku Game' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="32d85e4687221f181b1cc9b60cc8543c.png" xmlns="">0UyqMApySE0GFgCkWtrE08Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

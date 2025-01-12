@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "indexPath&Sequence_1",
+        "ui_rows&Sequence_2",
+        "list_rows&Sequence_2",
+        "list_cells&Sequence_2",
+        "SudokuGame_&Sequence_2",
+        "cellCoordinates&Sequence_2",
+        "levels&Sequence_2",
+        "currentLevel&Sequence_2",
+        "uiCells&Sequence_5",
+        "rowCells&Sequence_5",
+        "arrayElements&Sequence_5",
+        "elementToFill&Sequence_6",
+        "newCellValue&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "levelNumber"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome YouTube",
+  "Type": "App",
+  "Id": "IBS20_vHE0q4MQgwVyEDZA",
+  "Reference": "iF6Y1CLUi0-BnmuVdif5mw/IBS20_vHE0q4MQgwVyEDZA",
+  "Created": "2024-12-24T15:47:09.553301Z",
+  "Updated": "2024-12-24T15:47:09.553301Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
